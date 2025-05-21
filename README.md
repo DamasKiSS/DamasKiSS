@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Привет, меня зовут Булат!
 
-<!--
-**DamasKiSS/DamasKiSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ Обо мне
+- 🎓 Образование: ...
+- 💼 Работаю junior инженером по нагрузочному тестированию
+- 🛠️ Технологии: Gatling, Scala, SBT, S3, REST, Windows
+- 🚀 Цель: выйти на доход от 300,000₽ в месяц
 
-Here are some ideas to get you started:
+## 📈 Что я делаю сейчас
+- Провожу нагрузочное тестирование REST и СМЭВ операций
+- Пишу симуляции на Gatling
+- Развиваю навыки в Scala и автоматизации
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Мои проекты
+- [Мой сайт-портфолио](https://username.github.io)  
+- Репозиторий симуляций: ... (если есть)
+
+## 📫 Контакты
+- Telegram: @твойник
+- Email: example@mail.ru
